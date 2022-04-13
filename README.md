@@ -21,4 +21,6 @@
   
   ##
   
+  ![Snake animation](https://github.com/augustokalled/augustokalled/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
