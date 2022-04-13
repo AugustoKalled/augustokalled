@@ -6,10 +6,10 @@
 
 ## É bom ver você por aqui
   
-<div align="center">
+<div style="width: 100%">
   <a href="https://github.com/augustokalled">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=augustokalled&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=25EBC6&icon_color=EB901A"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustokalled&layout=compact&langs_count=7&theme=dracula&title_color=25EBC6"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=augustokalled&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=25EBC6&icon_color=EB901A"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustokalled&layout=compact&langs_count=7&theme=dracula&title_color=25EBC6"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kalled-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,8 +20,5 @@
   <img align="center" alt="Kalled-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   
   ##
- 
-
- 
- 
+  
 </div>
