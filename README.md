@@ -1,4 +1,8 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## É bom ver você aqui
+<div> 
+  <a href = "mailto:augustokalled150@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/augusto-kalled-15329820b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 <div align="center">
   <a href="https://github.com/augustokalled">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=augustokalled&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,9 +18,7 @@
   
   ##
  
-<div> 
-  <a href = "mailto:augustokalled150@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/augusto-kalled-15329820b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
  
 </div>
