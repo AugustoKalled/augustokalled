@@ -26,6 +26,8 @@
   <img align="center" alt="Kalled-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
   <img align="center" alt="Kalled-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Kalled-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
+  <img align="center" alt="Kalled-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  
   
   
   
