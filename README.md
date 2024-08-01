@@ -6,8 +6,7 @@
 
 ## Hi, I'm Kalled
 
-I'm a software engineer, programming language designer,
-operating system developer and amateur mathematician.
+I'm a software engineer and amateur mathematician.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kalled-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
